@@ -1,0 +1,42 @@
+.GreenComponent {
+    border: 2px solid #f14114;
+    border-radius: 6px;
+    border-right: 50px solid #f14114;
+    width: 660px;
+    padding-left: 20px;
+    margin: auto;
+    margin-bottom: 40px;
+}
+
+.GreenComponent-title {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.GreenComponent-message {
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 30px;
+    font-size: 14px;
+}
+
+.GreenComponent--success {
+    border: 2px solid #11882c;
+    border-right: 50px solid #11882c;
+    border-radius: 6px;
+    width: 660px;
+    padding-left: 20px;
+    margin: auto;
+    margin-bottom: 40px;
+}
+
+.MyBtn {
+    float: right;
+    background-color: #1f6ea1;
+    border-radius: 6px;
+    color: #ffffff;
+    padding: 10px 10px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 14px;
+    margin-right: 28%;
+    display: block;
+}
